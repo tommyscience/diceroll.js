@@ -1,0 +1,44 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #393E46;
+}
+
+h1 {
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+  color: #FCAF4A;
+  font-family: 'Pacifico', cursive;
+  margin: 30px
+}
+
+p {
+  font-size: 2rem;
+  color: #FCAF4A;
+  font-family: 'Satisfy', cursive;
+}
+
+footer {
+  font-family: 'Satisfy', cursive;
+  font-size: 1rem;
+  color: #fff;
+}
+
+
+.container {
+  margin: 0 auto;
+}
+
+
+.dice{
+  margin: 30px;
+  display: inline-block;
+}
+
+.img1 {
+
+}
+
+.img2 {
+
+}
